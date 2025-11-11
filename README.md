@@ -7,7 +7,7 @@ Why I built this
 - To demonstrate how TensorFlow.js + MobileNet can be used for practical, real-time UI experiences.
 
 Live demo
-- https://visual-product-matcher-project-nyyhi13gl.vercel.app/
+- [https://visual-product-matcher-project.vercel.app/](https://visual-product-matcher-project.vercel.app/)
 
 Quick highlights
 - 100% client-side — no server required
