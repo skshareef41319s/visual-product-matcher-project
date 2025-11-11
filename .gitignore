@@ -1,0 +1,56 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Dependency directories
+node_modules/
+.pnpm-store/
+
+# Build output
+dist/
+dist-ssr/
+build/
+out/
+.cache/
+.temp/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Editor and system files
+.vscode/*
+!.vscode/extensions.json
+.idea/
+.DS_Store
+Thumbs.db
+
+# TypeScript cache
+*.tsbuildinfo
+tsconfig.tsbuildinfo
+
+# Local config
+*.local
+*.lockb
+
+# Misc temporary files
+*.swp
+*.swo
+*.sw?
+*.sublime-workspace
+*.sublime-project
+
+# Test coverage
+coverage/
+*.lcov
+
+# Logs from bun / turbo / eslint
+bun.lockb
+.eslintcache
+.turbo/
