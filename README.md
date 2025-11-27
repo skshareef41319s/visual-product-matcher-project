@@ -59,5 +59,3 @@ Pre-submission checklist (for the grader)
 
 Contact
 - Questions or feedback: @skshareef41319s (GitHub)
-
-That's it — a compact, single-page README that explains what the project does, how to run it, and why it exists. If you'd like, I can tailor the README tone (more formal, more playful) or add a screenshot and example image list for the demo section.
